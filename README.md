@@ -16,3 +16,13 @@
 
 这套控件库由 4 个部分组成：基础控件、控件组合、表单、手机模板。
 
+
+![预览控件](https://github.com/wangye1989/Material_Design_Axure_Library/blob/master/screenshots/index.png?raw=true)
+
+![示例](https://github.com/wangye1989/Material_Design_Axure_Library/blob/master/screenshots/%E9%A2%84%E8%A7%88.jpg?raw=true)
+
+![示例标注](https://github.com/wangye1989/Material_Design_Axure_Library/blob/master/screenshots/%E6%A0%87%E6%B3%A8.png?raw=true)
+
+![示例：侧边栏](https://github.com/wangye1989/Material_Design_Axure_Library/blob/master/screenshots/%E4%BE%A7%E8%BE%B9%E6%A0%8F.jpg?raw=true)
+
+![示例：WeChat](https://github.com/wangye1989/Material_Design_Axure_Library/blob/master/screenshots/WeChat.jpg?raw=true)
