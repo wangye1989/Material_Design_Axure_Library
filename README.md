@@ -1,7 +1,7 @@
 # Material_Design_Axure_Library
 
 
-这套组件库是在 2016 年初在知乎上共享出来的。[用axure可以制作出符合Material Design的APP高保真原型吗？](https://www.zhihu.com/question/24874514/answer/77430658)
+这套组件库最早是在 2016 年初，我在知乎上共享出来的。[用axure可以制作出符合Material Design的APP高保真原型吗？](https://www.zhihu.com/question/24874514/answer/77430658)
 
 做这套组件库之前陆续用过一些其他人做的组件库，不过都不能满足自己的需求。
 
@@ -18,6 +18,8 @@
 
 
 ![预览控件](https://github.com/wangye1989/Material_Design_Axure_Library/blob/master/screenshots/index.png?raw=true)
+
+## 示例
 
 ![示例](https://github.com/wangye1989/Material_Design_Axure_Library/blob/master/screenshots/%E9%A2%84%E8%A7%88.jpg?raw=true)
 
